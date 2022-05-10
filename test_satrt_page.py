@@ -98,3 +98,6 @@ class TestStartPage:
 
         # Close driver
         driver.close()
+
+        driver.close()
+
